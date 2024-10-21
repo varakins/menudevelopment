@@ -1,0 +1,15 @@
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689_MarkupCompile.cache
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689_MarkupCompile.lref
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\bin\Debug\WpfApp12345689.exe.config
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\bin\Debug\WpfApp12345689.exe
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\bin\Debug\WpfApp12345689.pdb
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.g.resources
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.Properties.Resources.resources
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.exe
+C:\Users\serge\source\repos\WpfApp12345689\WpfApp12345689\obj\Debug\WpfApp12345689.pdb

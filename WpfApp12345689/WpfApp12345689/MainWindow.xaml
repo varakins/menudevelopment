@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp12345689.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp12345689"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="OKNO">
+        <TextBlock HorizontalAlignment="Left" Margin="79,14,0,0" TextWrapping="Wrap" Text="Меню" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="560,14,0,0" TextWrapping="Wrap" Text="Панель инструментов" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" Width="232"/>
+        <TextBlock x:Name="sostoanie" Background="White" HorizontalAlignment="Left" Margin="215,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="24" Width="340" Height="234"/>
+        <Button Background="White" Content="White" HorizontalAlignment="Left" Margin="27,47,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_1" MouseEnter="Button_MouseEnter"/>
+        <Button Background="Blue" Content="Blue" HorizontalAlignment="Left" Margin="27,72,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_2" MouseEnter="Button_MouseEnter_1"/>
+        <Button Background="Red" Content="Red" HorizontalAlignment="Left" Margin="27,97,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_4" MouseEnter="Button_MouseEnter_2"/>
+        <Button Content="Информация о разработчике" HorizontalAlignment="Left" Margin="27,122,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.674,-0.717" Width="167" Click="Button_Click_6" MouseEnter="Button_MouseEnter_3"/>
+        <Button Content="Зактыть окно" HorizontalAlignment="Left" Margin="27,148,0,0" VerticalAlignment="Top" Width="167" Click="Button_Click_8" MouseEnter="Button_MouseEnter_4"/>
+        <Button Background="White" Content="White" HorizontalAlignment="Left" Margin="592,47,0,0" VerticalAlignment="Top" Width="168" Click="Button_Click" MouseEnter="Button_MouseEnter"/>
+        <Button Background="Blue" Content="Blue" HorizontalAlignment="Left" Margin="592,72,0,0" VerticalAlignment="Top" Width="168" Click="Button_Click_3" MouseEnter="Button_MouseEnter_1"/>
+        <Button Background="Red" Content="Red" HorizontalAlignment="Left" Margin="592,97,0,0" VerticalAlignment="Top" Width="168" Click="Button_Click_5" MouseEnter="Button_MouseEnter_2"/>
+        <Button Content="Информация о разработчике" HorizontalAlignment="Left" Margin="592,122,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.674,-0.717" Width="168" Click="Button_Click_7" MouseEnter="Button_MouseEnter_3"/>
+        <Button Content="Зактыть окно" HorizontalAlignment="Left" Margin="592,148,0,0" VerticalAlignment="Top" Width="168" Click="Button_Click_9" MouseEnter="Button_MouseEnter_4"/>
+    </Grid>
+</Window>
