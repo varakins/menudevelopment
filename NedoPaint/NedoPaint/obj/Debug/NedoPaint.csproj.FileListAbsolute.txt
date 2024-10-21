@@ -1,0 +1,15 @@
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\bin\Debug\NedoPaint.exe.config
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\bin\Debug\NedoPaint.exe
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\bin\Debug\NedoPaint.pdb
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint_MarkupCompile.cache
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint_MarkupCompile.lref
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.g.resources
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.Properties.Resources.resources
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.exe
+C:\Users\serge\source\repos\NedoPaint\NedoPaint\obj\Debug\NedoPaint.pdb
